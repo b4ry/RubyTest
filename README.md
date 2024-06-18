@@ -6,3 +6,5 @@ There was another problem though, because _bundle install_ did not work either, 
 all options via ridk:
 
 ![image](https://github.com/b4ry/RubyTest/assets/3950530/76f812f3-702b-4dbd-97d4-d323d947c502)
+
+I wrote a Medium article with some more details, if one needs: https://medium.com/@luka.barczak/initial-ruby-lsp-configurational-pain-7d58bba2b995
